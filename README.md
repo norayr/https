@@ -1,6 +1,6 @@
 # https
 
-Downloads by URL for [voc](https://github.com/vishaps/voc): `http://` with
+Downloads by URL for [voc](https://github.com/vishapoberon/compiler): `http://` with
 [http](https://github.com/norayr/http), `https://` with TLS 1.3 written in Oberon
 ([tls](https://github.com/norayr/tls), no C library for TLS). The same code is used by polpo.
 
